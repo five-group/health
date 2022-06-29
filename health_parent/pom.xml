@@ -43,7 +43,7 @@
         <!--安全框架依赖-->
         <spring.security.version>5.0.5.RELEASE</spring.security.version>
         <!--操作office 一般企业中主要使用poi操作excel-->
-        <poi.version>3.14</poi.version>
+        <poi.version>4.1.1</poi.version>
         <jedis.version>2.7.0</jedis.version>
         <!--定时任务调度框架 health_jobs需要用-->
         <quartz.version>2.2.1</quartz.version>
